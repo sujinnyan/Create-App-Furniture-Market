@@ -1,70 +1,37 @@
-# Getting Started with Create React App
+<h1 align="center">#Create App - Furniture Market</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+<h1 align="center">Project Description</h1>
+<p align="center">It is an online market app that sells new and used furniture.<br>
+It will be a space where customers can freely write and sell the furniture they want to sell on the website, and it will become a website where they can design their own furniture by designing their own furniture in Modic.</p>
 
-In the project directory, you can run:
+<h1 align="center">#Screenshot</h1>
+![Homepage-img](https://user-images.githubusercontent.com/97710314/178641419-cab4694c-19d0-4a45-81c6-ee3104784406.png)
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<h1 align="center">#Technologies Used</h1>
+<p align="center">
+- JavaScript<br>
+- React<br>
+- NPM<br>
+- Bootstrap<br>
+- Heroku<br>
+- HTML<br>
+- CSS<br>
+</p>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<h1 align="center">#Getting Started</h1>
+<p align="center">I will be updating the Trello board and the project’s planning soon.</p>
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<h1 align="center">#Next Steps</h1>
+<p align="center">In the future, this app will develop into a better online furniture market. It will be a space where customers write and upload articles about the furniture they want to sell themselves and sell them.</p>
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<h1 align="center">#Author</h1>
+<p align="center">
+**Sujin An**<br>
+- [Github repository](https://github.com/sujinnyan/Create-App-Furniture-Market.git)<br>
+- [Email](ansujinny@gmail.com)<br>
+- [Website](https://create-app-furniture-market.herokuapp.com/)
+</p>
