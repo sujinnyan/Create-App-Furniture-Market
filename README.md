@@ -27,7 +27,7 @@ It will be a space where customers can freely write and sell the furniture they 
 
 
 <h1 align="center">#Next Steps</h1>
-<p align="center">In the future, this app will develop into a better online furniture market. It will be a space where customers write and upload articles about the furniture they want to sell themselves and sell them.</p>
+<p align="center">This app will develop into a better online furniture market. It will be a space where customers write and upload articles about the furniture they want to sell themselves and sell them.</p>
 
 
 <h1 align="center">#Author</h1>
