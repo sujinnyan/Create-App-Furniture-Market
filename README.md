@@ -6,7 +6,7 @@
 It will be a space where customers can freely write and sell the furniture they want to sell on the website, and it will become a website where they can design their own furniture by designing their own furniture in Modic.</p>
 
 <h1 align="center">#Screenshot</h1>
-![Homepage-img](https://user-images.githubusercontent.com/97710314/178641419-cab4694c-19d0-4a45-81c6-ee3104784406.png)
+![Homepage-img](https://user-images.githubusercontent.com/97710314/178643274-60d850f3-4ef5-414d-be6c-d776286da57e.png)
 
 
 <h1 align="center">#Technologies Used</h1>
