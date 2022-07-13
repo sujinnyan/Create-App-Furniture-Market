@@ -57,34 +57,7 @@ const Home = () => {
       </div>
       </section>
 
-      <div className='services_section'>
-       
-        <div className='services-wrapper'>
-            <h5>SERVICES</h5>
-            <h2>What We Offer</h2>
-
-            <div className='services-container'>
-                <div className='item'>
-                <img src={icon1} alt=""/>
-
-   
-                </div>
-
-                <div className='item'>
-                <img src={icon2} alt=""/>
-
-                </div>
-                <div className='item'>
-                <img src={icon3} alt=""/>
-
-                </div>
-
-            
-            </div>
-       
-        </div>
-
-      </div>
+      
     
         </>
     )
