@@ -1,7 +1,7 @@
 <h1 align="center">#Create App - Furniture Market</h1>
 
 
-<h1 align="center">Project Description</h1>
+<h1 align="center">#Project Description</h1>
 <p align="center">It is an online market app that sells new and used furniture.<br>
 It will be a space where customers can freely write and sell the furniture they want to sell on the website, and it will become a website where they can design their own furniture by designing their own furniture in Modic.</p>
 
